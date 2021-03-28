@@ -9,8 +9,11 @@ B2: Đi tới tab Actions
 B3: Chạy Dòng Workflow
 
 B4: Điền dữ liệu vào
+
 	-> Nhập Code Windows
+
 		- Code Windows(Powershell) từ link: https://remotedesktop.google.com/headless
+
 	-> Nhập mã Pin sáu số bất kỳ
 
 B5: Ấn Run Workflow
