@@ -21,3 +21,19 @@ B5: Ấn Run Workflow
 Sau 2-3 phút Khởi tạo, tới bước 'Keep Alive' đã thành công
 
 Có thể kiểm tra qua link: https://remotedesktop.google.com/
+
+Trên iOS: Lên Appstore tìm 'Chrome Remote Desktop' rồi tải về.
+
+          Đăng nhập vào tài khoản google đã sử dụng bước trên.
+
+          Ấn vào thiết bị đầu tiên và nhập Pin ở bước trên.
+
+          Tận Hưởng VPS.
+
+Trên Andoird: Lên ChPlay tìm 'Chrome Remote Desktop' rồi tải về.
+
+          Đăng nhập vào tài khoản google đã sử dụng bước trên.
+
+          Ấn vào thiết bị đầu tiên và nhập Pin ở bước trên.
+
+          Tận Hưởng VPS.
