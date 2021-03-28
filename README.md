@@ -30,7 +30,7 @@ Trên iOS: Lên Appstore tìm 'Chrome Remote Desktop' rồi tải về.
 
           Tận Hưởng VPS.
 
-Trên Andoird: Lên ChPlay tìm 'Chrome Remote Desktop' rồi tải về.
+Trên Android: Lên ChPlay tìm 'Chrome Remote Desktop' rồi tải về.
 
           Đăng nhập vào tài khoản google đã sử dụng bước trên.
 
