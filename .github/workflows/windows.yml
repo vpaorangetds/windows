@@ -1,0 +1,22 @@
+name: VPS
+on: 
+  workflow_dispatch:
+    inputs:
+      authcode:
+        description: 'Nhập Code'
+        required: true
+      pincode:
+        description: 'Nhập Pin 6 Số Bất Kì'
+        required: true
+  
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Initializing Setup
+      run: ./caidat.ps1
+    - name: Starting VPS
+      run: ${{ github.event.inputs.authcode }} -pin=${{ github.event.inputs.pincode }}
+    - name: Keep Alive
+      run: ./time.ps1
