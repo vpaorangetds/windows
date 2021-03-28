@@ -19,4 +19,5 @@ B4: Điền dữ liệu vào
 B5: Ấn Run Workflow
 
 Sau 2-3 phút Khởi tạo, tới bước 'Keep Alive' đã thành công
+
 Có thể kiểm tra qua link: https://remotedesktop.google.com/
