@@ -2,7 +2,7 @@
 
 Tạo VPS 6 tiếng đơn giản qua 5 bước.
 
-B1: Fork Kho lưu trữ này từ github https://github.com/dtofficial/windows
+B1: Fork Kho lưu trữ này về của bạn
 
 B2: Đi tới tab Actions
 
